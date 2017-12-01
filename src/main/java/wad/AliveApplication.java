@@ -19,6 +19,6 @@ public class AliveApplication {
     }
 
     public static String herokuUrl() {
-        return "";
+        return "https://calm-plains-85377.herokuapp.com/";
     }
 }
